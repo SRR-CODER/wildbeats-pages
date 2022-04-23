@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wildbeats-pages/static/css/main.058c860e.css",
+    "main.css": "/wildbeats-pages/static/css/main.6ed45f94.css",
     "main.js": "/wildbeats-pages/static/js/main.9a972870.js",
     "static/js/787.28cb0dcd.chunk.js": "/wildbeats-pages/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/wildbeats-pages/index.html",
-    "main.058c860e.css.map": "/wildbeats-pages/static/css/main.058c860e.css.map",
+    "main.6ed45f94.css.map": "/wildbeats-pages/static/css/main.6ed45f94.css.map",
     "main.9a972870.js.map": "/wildbeats-pages/static/js/main.9a972870.js.map",
     "787.28cb0dcd.chunk.js.map": "/wildbeats-pages/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.058c860e.css",
+    "static/css/main.6ed45f94.css",
     "static/js/main.9a972870.js"
   ]
 }
